@@ -32,7 +32,6 @@ class ObjectHelper
         return self::$errorInstance;
     }
 
-
     /**
      * @param $attributes
      * @param $default
