@@ -1,0 +1,21 @@
+{
+    "name": "tecsvit/object-helper",
+    "description": "Object Helper",
+    "type": "library",
+    "keywords": ["library","object"],
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "fa2m",
+            "email": "2day@ua.fm"
+        }
+    ],
+    "require": {
+        "tecsvit/public-errors": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "\\tecsvit\\": ""
+        }
+    }
+}
