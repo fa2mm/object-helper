@@ -6,7 +6,7 @@ namespace tecsvit;
  * Class ObjectHelper
  *
  * @static PublicErrors $errorInstance
- *
+ * @version 1.0
  * @use \tecsvit\PublicErrors
  */
 class ObjectHelper
